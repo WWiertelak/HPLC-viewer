@@ -57,3 +57,4 @@ To plot the data, use the plot method. The method generates a plot of fluorescen
 ```
 my_hplc_viewer.plot()
 ```
+![Test Plot](https://github.com/WWiertelak/HPLC-viewer/blob/main/Result_plot.png)
